@@ -1,1 +1,1 @@
-# network_permutation
+# Network Permutation Method
